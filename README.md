@@ -44,7 +44,22 @@ In this section, used NLTK and Python to tokenize text, find n-gram counts, and 
 - Word Clouds
 Finally, generated word clouds for each coin to summarize the news for each coin.
 
+##### Bitcoin Word Cloud
+
+![alt text](bitcoin_wc.png "Bitcoin Word Cloud")
+
+##### Ethereum Word Cloud
+
+![alt text](Ethereum_wc.png "Ethereum Word Cloud")
+
 #### Named Entity Recognition (NER)
 
 In this section, built a named entity recognition model for both coins and visualize the tags using SpaCy.
 
+##### Bitcoin NER
+
+![alt text](bitcoin_ner.png "Bitcoin NER")
+
+##### Ethereum NER
+
+![alt text](Ethereum_NER.png "Ethereum NER")
